@@ -1,2 +1,1 @@
-# Princeisac.github.io
-My Personal Website
+https://princeisac.github.io/
