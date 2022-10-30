@@ -10,7 +10,7 @@ body{
   grid-gap: 2px;
   grid-template-columns: 250px auto auto;
   grid-template-rows: 75px auto 75px;
-  
+
 }
 
 .header{
@@ -19,7 +19,7 @@ body{
     text-align: center;
     font-size: larger;
     transition-duration: .7s;
-    
+
 }
 .header:hover{
     background-color:rgb(131, 131, 226);
@@ -28,7 +28,7 @@ body{
 
 .left-column{
     grid-column: 1/2;
-    
+
     background-color: rgb(131, 131, 226);
     text-align: center;
     color: white;
@@ -42,7 +42,7 @@ body{
    grid-column: 2/-1;
    background-color: rgb(161, 158, 158);
    transition-duration: .7s;
-   
+
    text-align: center;
 }
 .middle-column:hover{
@@ -83,7 +83,7 @@ a:hover{
 .far:hover{
     color: cyan;
     transform: rotate(180deg);
-   
+
 }
 
 
@@ -91,8 +91,8 @@ a:hover{
     .container{
         display:block;
         float:none;
-       
-       
+
+
     }
     .left-column{
         width: 100%;
@@ -102,8 +102,8 @@ a:hover{
         padding-top: 0px;
         padding-left: 10px;
         padding-right: 10px;
-        
-        
+
+
     }
 
     .container{
@@ -117,8 +117,8 @@ a:hover{
         text-align: center;
         color:black;
     }
-   
-    
+
+
 }
 
 
